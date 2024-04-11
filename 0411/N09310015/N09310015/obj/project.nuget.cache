@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ap0WqkSGrcG9yqOV6uW37DfxCw9q1NjwSoa2Ws09itFdbW/2BatXIkI+STjyD1w8bZaT+1XGAeixSLnWDdN4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yuxiu\\OneDrive\\桌面\\GUI_Class_2024\\N09310015\\N09310015\\N09310015.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yuxiu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\yuxiu\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\yuxiu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\yuxiu\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
