@@ -64,5 +64,11 @@ namespace N09310015_1
             int sum = a + b;
             label6.Text = sum.ToString();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            Form2 formBTN = new Form2();
+            formBTN.Show();
+        }
     }
 }
