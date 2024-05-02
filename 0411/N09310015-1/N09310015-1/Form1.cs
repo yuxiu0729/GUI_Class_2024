@@ -70,5 +70,11 @@ namespace N09310015_1
             Form2 formBTN = new Form2();
             formBTN.Show();
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            Form formTimer = new TimerForm();
+            formTimer.Show();
+        }
     }
 }
