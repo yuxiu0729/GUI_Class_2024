@@ -76,5 +76,11 @@ namespace N09310015_1
             Form form = new FormTimer();
             form.Show();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            Form form = new Formpassword();
+            form.Show(); 
+        }
     }
 }
