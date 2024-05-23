@@ -82,5 +82,11 @@ namespace N09310015_1
             Form form = new Formpassword();
             form.Show(); 
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Form form = new FormCheckBox();
+            form.Show();
+        }
     }
 }
